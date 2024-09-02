@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingqianDev&locale=en&line_height=33&theme=&langs_count=4&layout=compact"/>
+
 <!--
 **MingqianDev/MingqianDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
